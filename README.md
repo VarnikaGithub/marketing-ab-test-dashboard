@@ -131,7 +131,7 @@ marketing-ab-test-analysis/
 
 ### Campaign Performance
 
-<img width="1168" height="656" alt="Campaign Performance Dashboard" src="https://github.com/user-attachments/assets/e59896ee-8ec9-43b6-8bf2-d05ef9ddd504" />
+<img width="1166" height="651" alt="image" src="https://github.com/user-attachments/assets/3e000c59-8272-46f0-bf98-04b0af379fdd" />
 
 ### Ad Timing Optimizer
 
